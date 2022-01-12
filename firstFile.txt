@@ -5,6 +5,6 @@ Ivan Yarachkin
 I wanna drink tea
 Rocket League
 Seventh line
-Do u wanna learn Java?
+Do u wanna learn C++?
 Do not say anything
-I know ur answer
+I dont know ur answer
